@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044037589118",
+    "project_id": "smarttutor-213c0",
+    "storage_bucket": "smarttutor-213c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044037589118:android:f10c56f9187b2c55dde02f",
+        "android_client_info": {
+          "package_name": "com.example.smarttutorr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044037589118-ceksdnf1gn0gel1b66sqjtgfb34i947f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCBMTIUQVXpDhVY-tkFeHs50D9PTDUuZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044037589118-ceksdnf1gn0gel1b66sqjtgfb34i947f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<!-- app/src/main/res/values/strings.xml -->
+<resources>
+    <string name="app_name">SmartTutor</string>
+    <string name="chat">Чат</string>
+    <string name="notes">Заметки</string>
+    <string name="reminders">Напоминания</string>
+    <string name="profile">Профиль</string>
+</resources>
